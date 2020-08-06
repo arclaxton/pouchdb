@@ -33,7 +33,7 @@
     "double-ended-queue": "2.1.0-0",
     "immediate": "3.0.6",
     "inherits": "2.0.3",
-    "level": "5.6.0",
+    "level": "5.0.0",
     "level-codec": "7.0.1",
     "level-write-stream": "1.0.0",
     "leveldown": "5.6.0",
