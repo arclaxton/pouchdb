@@ -1,6 +1,10 @@
 {
   "name": "pouchdb",
+<<<<<<< HEAD:bower.json
   "version": "6.4.3",
+=======
+  "version": "7.0.0-prerelease",
+>>>>>>> updates:packages/node_modules/pouchdb/bower.json
   "description": "PouchDB is a pocket-sized database.",
   "repo": "daleharvey/pouchdb",
   "keywords": [
